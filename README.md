@@ -12,4 +12,4 @@ Full Stack Web Developer || Software Developer
 - 😄 Pronouns: Techie
 - ⚡ Fun fact:
 <br/>
-<img src="https://leetcard.jacoblin.cool/muthuhariharan_2001?theme=dark&font=Marcellus&ext=contest" alt="Leetcode"/> 
+<img src="https://leetcard.jacoblin.cool/muthuhariharan2001?theme=dark&font=Marcellus&ext=contest" alt="Leetcode"/> 
