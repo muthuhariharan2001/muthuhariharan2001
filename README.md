@@ -58,7 +58,7 @@
 |----------|---------|
 | 🧠 LeetCode | [muthuhariharan2001](https://leetcode.com/muthuhariharan2001/) |
 | 📗 GeeksforGeeks | [muthuhariharan2001](https://auth.geeksforgeeks.org/user/muthuhariharan2001/practice/) |
-| 🟢 HackerRank | [muthuhariharan2001](https://www.hackerrank.com/muthuhariharan2001) |
+| 🟢 HackerRank | [muthuhariharan2001](https://www.hackerrank.com/muthuhariharan21) |
 | 🔵 Codeforces | [Add your profile link here] |
 | 🍳 CodeChef | [Add your profile link here] |
 
