@@ -22,8 +22,9 @@
 ### 💼 Skills (and Superpowers)
 
 - **Frontend Sorcery**: React ⚛️ | Angular 🅰️ | Tailwind 🌬️ | HTML/CSS 🎨
-- **Backend Bending**: Node.js 🚀 | Express 😎 | Django 🐍 | MongoDB 💾
-- **DevOps-ish**: Docker 🐳 | Git/GitHub 💡 | Vercel 🔥
+- **Backend Bending**: Node.js 🚀 | Express 😎 | Django 🐍 
+- **Database Fluency**: MongoDB 💾 | SQL | Oracle 💾
+- **DevOps-ish**: Git/GitHub 💡 | Vercel 🔥
 - **Languages Spoken**: English, Tamil, and fluent sarcasm 😏
 
 ---
