@@ -34,7 +34,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/muthu-hariharan-582882218/)
 [![Twitter](https://img.shields.io/badge/Twitter-Random+Thoughts-blue?style=for-the-badge&logo=twitter)](https://twitter.com/muthuh_dev)
 [![Email](https://img.shields.io/badge/Gmail-Let's+Chat-red?style=for-the-badge&logo=gmail)](mailto:muthuhariharan2001@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Browse-black?style=for-the-badge&logo=vercel)](https://your-portfolio-link.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Browse-black?style=for-the-badge&logo=vercel)]([https://your-portfolio-link.com](https://muthuhariharan2001.github.io/muthuhariharan/))
 
 ---
 
