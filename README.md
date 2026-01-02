@@ -2,7 +2,8 @@
 <h3 align="center">Full Stack Wizard 🧙‍♂️ | Debugging Ninja 🐛 | Code Whisperer 🧑‍💻 | API Therapist 🤖</h3>
 
 <p align="center" width="1500">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Code.+Debug.+Repeat.;I+turn+coffee+into+code.;Eat+%7C+Sleep+%7C+Code+%7C+Repeat;Currently+learning+DSA+%26+chasing+OpenAI+dreams!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Code.+Debug.+Repeat.;I+turn+coffee+into+code.;Eat+%7C+Sleep+%7C+Code+%7C+Repeat;
+    Currently+learning+DSA.;Chasing+OpenAI+dreams!" />
 </p>
 
 <img align="right" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300" height="300"/>
