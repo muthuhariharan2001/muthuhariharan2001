@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋, I'm Muthu Hariharan</h1>
+<h1 align="center">Hey there, I'm Muthu Hariharan</h1>
 <h3 align="center">Full Stack Wizard 🧙‍♂️ | Debugging Ninja 🐛 | Code Whisperer 🧑‍💻 | API Therapist 🤖</h3>
 
 <p align="center" width="1000">
@@ -9,27 +9,27 @@
 
 ---
 
-### 🤖 About Me (The Human Behind the Code)
+### About Me (The Human Behind the Code)
 
-- 🧠 Developer by day, bug exterminator by night.
-- 🐍 Fluent in Python, JavaScript, and the ancient art of Stack Overflow searches.
-- 💥 I once wrote a program that ran on the first try. Legends say it still works.
-- 🧩 Master of Sudoku, Knight of Chessboard, Lord of Lazy Optimization.
-- 🎯 Ultimate Goal: Join **OpenAI** and become a full-time AI whisperer.
-
----
-
-### 💼 Skills (and Superpowers)
-
-- **Frontend Sorcery**: React ⚛️ | Angular 🅰️ | Tailwind 🌬️ | HTML/CSS 🎨
-- **Backend Bending**: Node.js 🚀 | Express 😎 | Django 🐍 
-- **Database Fluency**: MongoDB 💾 | SQL | Oracle 💾
-- **DevOps-ish**: Git/GitHub 💡 | Vercel 🔥
-- **Languages Spoken**: English, Tamil, and fluent sarcasm 😏
+- Developer by day, bug exterminator by night.
+- Fluent in Python, JavaScript, and the ancient art of Stack Overflow searches.
+- I once wrote a program that ran on the first try. Legends say it still works.
+- Master of Sudoku, Knight of Chessboard, Lord of Lazy Optimization.
+- Ultimate Goal: Join **OpenAI** and become a full-time AI whisperer.
 
 ---
 
-### 📫 Contact Me (Carrier Pigeon Coming Soon)
+### Skills (and Superpowers)
+
+- **Frontend Sorcery**: React ⚛️ | Angular 🅰️ | Tailwind  | HTML/CSS 
+- **Backend Bending**: Node.js  | Express  | Django 🐍 
+- **Database Fluency**: MongoDB  | SQL | Oracle 
+- **DevOps-ish**: Git/GitHub 💡 | Vercel 
+- **Languages Spoken**: English, Tamil, and fluent sarcasm 
+
+---
+
+### Contact Me (Carrier Pigeon Coming Soon)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/muthu-hariharan-582882218/)
 [![Twitter](https://img.shields.io/badge/Twitter-Random+Thoughts-blue?style=for-the-badge&logo=twitter)](https://twitter.com/muthuh_dev)
@@ -64,19 +64,19 @@
 
 ---
 
-### 🧠 Coding Profiles (aka My Online Batcaves)
+### Coding Profiles (aka My Online Batcaves)
 
 | Platform | Profile |
 |----------|---------|
-| 🧠 LeetCode | [muthuhariharan2001](https://leetcode.com/muthuhariharan2001/) |
-| 📗 GeeksforGeeks | [muthuhariharan2001](https://auth.geeksforgeeks.org/user/muthuhariharan2001/practice/) |
-| 🟢 HackerRank | [muthuhariharan2001](https://www.hackerrank.com/muthuhariharan21) |
-| 🔵 Codeforces | [muthuhariharan2001](https://codeforces.com/profile/Muthu_Hariharan) |
-| 🍳 CodeChef | [muthuhariharan2001](https://www.codechef.com/users/hariharan2811) |
+| LeetCode | [muthuhariharan2001](https://leetcode.com/muthuhariharan2001/) |
+| GeeksforGeeks | [muthuhariharan2001](https://auth.geeksforgeeks.org/user/muthuhariharan2001/practice/) |
+| HackerRank | [muthuhariharan2001](https://www.hackerrank.com/muthuhariharan21) |
+| Codeforces | [muthuhariharan2001](https://codeforces.com/profile/Muthu_Hariharan) |
+| CodeChef | [muthuhariharan2001](https://www.codechef.com/users/hariharan2811) |
 
 ---
 
-### ⚡ Developer Stats
+### Developer Stats
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/muthuhariharan2001?theme=dark&font=Marcellus&ext=contest" width="90%" />
@@ -89,26 +89,26 @@
 
 ---
 
-### 🏆 Bonus Content – Random Quirks
+### Bonus Content – Random Quirks
 
-- 🤯 I name variables after food sometimes (don’t ask what `tandooriChicken` does).
-- 🧃 Strong opinions on tabs vs spaces. I use **both** to confuse future readers (mostly myself).
-- ⌨️ Keyboard enthusiast. Once spilled coffee, now keys scream when I touch them.
-- 📦 I npm install like there's no tomorrow... and then forget what half the packages do.
-- 🕵️‍♂️ Favorite debugging technique: Staring at the screen until the bug fixes itself (works 2% of the time).
-
----
-
-### 🎯 Projects You Should Totally Check Out
-
-- 🚀 **AI-Powered Resume Builder** – With live preview, OpenAI integration, and PDF download.
-- 🔍 **Custom Search Engine** – No 3rd party APIs, just pure frontend/backend awesomeness.
-- 🧠 **OCR Identity Matcher** – Verifies if uploaded Aadhar and Smart Card images match the same human.
-- 👨‍🏫 **Coding Contest Judge** – Mentored + evaluated 100s of minds, still can't find the semicolon I lost last week.
+-  I name variables after food sometimes (don’t ask what `tandooriChicken` does).
+-  Strong opinions on tabs vs spaces. I use **both** to confuse future readers (mostly myself).
+-  Keyboard enthusiast. Once spilled coffee, now keys scream when I touch them.
+-  I npm install like there's no tomorrow... and then forget what half the packages do.
+-  Favorite debugging technique: Staring at the screen until the bug fixes itself (works 2% of the time).
 
 ---
 
-### 🧃 Final Words
+### Projects You Should Totally Check Out
+
+- **AI-Powered Resume Builder** – With live preview, OpenAI integration, and PDF download.
+- **Custom Search Engine** – No 3rd party APIs, just pure frontend/backend awesomeness.
+- **OCR Identity Matcher** – Verifies if uploaded Aadhar and Smart Card images match the same human.
+- **Coding Contest Judge** – Mentored + evaluated 100s of minds, still can't find the semicolon I lost last week.
+
+---
+
+### Final Words
 
 > I may not be a robot (yet), but I run on caffeine and commit messages like "final_final_final_v2_really_this_time".
 
