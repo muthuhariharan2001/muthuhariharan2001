@@ -113,7 +113,7 @@
 
 > I may not be a robot (yet), but I run on caffeine and commit messages like "final_final_final_v2_really_this_time".
 
-Thanks for scrolling this far — now go check out my [repos](https://github.com/muthuhariharan2001?tab=repositories) before I push some new bugs 🚀🐛
+Thanks for scrolling this far — now go check out my [repos](https://github.com/muthuhariharan2001?tab=repositories) before I push some new bugs 
 
 ---
 
